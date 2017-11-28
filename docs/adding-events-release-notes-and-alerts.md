@@ -304,5 +304,3 @@ banner: "<b>Chain fork</b> - situation resolved"
 ##   alert = red  |  warning = orange  |  success = green  | info = blue
 bannerclass: success
 ```
-
-[markdown format]: https://help.github.com/articles/markdown-basics/
